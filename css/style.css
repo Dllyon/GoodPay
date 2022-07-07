@@ -5,5 +5,11 @@
 
 .btnAjuste {
   padding: 0.3rem;
+}
 
+.ajusteMain {
+  width: 80%;
+  margin-top: 8%;
+  margin-left: auto;
+  margin-right: auto;
 }
